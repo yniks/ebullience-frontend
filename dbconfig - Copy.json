@@ -1,7 +1,0 @@
-{
-    "host":"us-cdbr-iron-east-03.cleardb.net",
-    "user":"b54f7ec753486d",
-    "password":"7e87244e",
-    "database":"heroku_e2d7e56ae33bb25",
-    "connectionLimit":5
-}
