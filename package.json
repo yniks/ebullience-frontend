@@ -1,0 +1,22 @@
+{
+  "name": "ebul2k19",
+  "version": "1.0.0",
+  "description": "\"# ebullience-frontend\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhileshofficial/ebullience-frontend.git"
+  },
+  "author": "nikhileshofficial@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhileshofficial/ebullience-frontend/issues"
+  },
+  "homepage": "https://github.com/nikhileshofficial/ebullience-frontend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
