@@ -1,0 +1,2 @@
+webpackJsonp([17],{BUJD:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u={name:"CARD",extends:t("T62b").default,computed:{background:function(){return[{attach:!0,letter:!0,pos:"center",size:"contain"},{blur:!0,c:"rgb(0,0,0,0.3)"}]}}};var c=t("VU/8")(u,null,!1,function(e){t("weKP")},null,null);n.default=c.exports},weKP:function(e,n){}});
+//# sourceMappingURL=17.5d183a526917e27717a6.js.map

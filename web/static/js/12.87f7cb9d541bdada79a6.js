@@ -1,0 +1,2 @@
+webpackJsonp([12],{c9I9:function(e,n){},rRaM:function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t={name:"SCREEN",extends:u("T62b").default,computed:{background:function(){return[{}]}}};var c=u("VU/8")(t,null,!1,function(e){u("c9I9")},null,null);n.default=c.exports}});
+//# sourceMappingURL=12.87f7cb9d541bdada79a6.js.map

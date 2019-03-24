@@ -1,0 +1,2 @@
+webpackJsonp([15],{"6baX":function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t={name:"LIST-WRAPPABLE",extends:u("ybh6").default,computed:{}};var l=u("VU/8")(t,null,!1,function(e){u("inuo")},null,null);n.default=l.exports},inuo:function(e,n){}});
+//# sourceMappingURL=15.49ec9f582b5ed1d810a6.js.map

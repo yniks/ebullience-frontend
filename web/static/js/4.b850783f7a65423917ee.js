@@ -1,0 +1,2 @@
+webpackJsonp([4,16],{"0AoV":function(e,n){},Dkux:function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t={name:"TEXT-STANDARD",extends:u("BkzT").default};var l=u("VU/8")(t,null,!1,function(e){u("0AoV")},null,null);n.default=l.exports},MKX1:function(e,n){},"sN/4":function(e,n,u){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var t={name:"TEXT-VETICAL",extends:u("Dkux").default};var l=u("VU/8")(t,null,!1,function(e){u("MKX1")},null,null);n.default=l.exports}});
+//# sourceMappingURL=4.b850783f7a65423917ee.js.map
